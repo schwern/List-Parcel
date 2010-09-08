@@ -1,0 +1,5 @@
+Build.PL
+lib/List/Parcel.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/parcel.t
